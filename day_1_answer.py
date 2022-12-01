@@ -1,3 +1,4 @@
+#Download the data to test.txt and cd into that directory and open a python interpreter
 b = []
 c = []
 d = []
